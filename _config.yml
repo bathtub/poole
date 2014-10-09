@@ -5,9 +5,8 @@ relative_permalinks: true
 # Setup
 title:            Poole
 tagline:          The Jekyll Butler
-url:              http://bathtub.github.io/poole/
 paginate:         1
-baseurl:          /
+baseurl:          http://bathtub.github.io/poole/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
@@ -15,5 +14,3 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://github.com/bathtub/poole
