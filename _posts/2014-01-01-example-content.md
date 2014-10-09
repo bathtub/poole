@@ -44,6 +44,7 @@ var adder = new Function("a", "b", "return a + b");
 // Call the function
 ```
 
+
 {% highlight js %}
 // Example can be run directly in your JavaScript console
 
