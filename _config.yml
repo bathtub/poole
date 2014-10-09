@@ -1,10 +1,9 @@
-# Permalinks
-markdown:         kramdown
-highlighter:      pygments
-
 kramdown:
   input: GFM
-
+  enable_coderay: true
+  coderay_wrap:              div
+  coderay_line_numbers:      nil
+  
 safe: true
 lsi: false
 
