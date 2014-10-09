@@ -5,6 +5,10 @@ highlighter:      pygments
 
 kramdown:
   input: GFM
+  enable_coderay: true
+  coderay_css: style
+  coderay_wrap:              div
+  coderay_line_numbers:      nil
 
 safe: true
 lsi: false
