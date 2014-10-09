@@ -1,4 +1,14 @@
 # Permalinks
+markdown:         kramdown
+highlighter:      pygments
+
+kramdown:
+  input: GFM
+
+safe: true
+lsi: false
+
+# Permalinks
 permalink:        pretty
 relative_permalinks: true
 
