@@ -5,6 +5,7 @@ highlighter:      pygments
 
 kramdown:
   input: GFM
+  use_coderay: true
   enable_coderay: true
   coderay_css: style
   coderay_wrap:              div
