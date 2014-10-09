@@ -6,4 +6,4 @@ relative_permalinks: true
 title:            Poole
 tagline:          The Jekyll Butler
 paginate:         1
-baseurl:          http://bathtub.github.io/poole/
+baseurl:          /
