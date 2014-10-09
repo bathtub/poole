@@ -1,6 +1,13 @@
+
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+markdown:         kramdown
+highlighter:      pygments
+
+kramdown:
+  input: GFM
+
+safe: true
+lsi: false
 
 # Setup
 title:            Poole
