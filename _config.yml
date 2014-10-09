@@ -6,4 +6,11 @@ relative_permalinks: true
 title:            Poole
 tagline:          The Jekyll Butler
 paginate:         1
-baseurl:          /
+baseurl:          http://bathtub.github.io/poole/
+author:
+  name:           Mark Otto
+  url:            https://twitter.com/mdo
+  email:          markdotto@gmail.com
+
+# Custom vars
+version:          1.0.0
